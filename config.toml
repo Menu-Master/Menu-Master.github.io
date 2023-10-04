@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://menu-master.github.io"
+baseURL = "https://menu-master.github.io/public"
 languageCode = "en-US"
 title = "MenuMaster"
 theme = "hugo-split-theme"
