@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "http://menu-master.me/"
+
 languageCode = "en-US"
 title = "MenuMaster"
 theme = "hugo-split-theme"
