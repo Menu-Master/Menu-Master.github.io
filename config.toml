@@ -1,7 +1,7 @@
 # Site settings
-baseURL = "https://example.com"
+baseURL = "https://menu-master.github.io/"
 languageCode = "en-US"
-title = "Split - HTML Template Demo"
+title = "MenuMaster"
 theme = "hugo-split-theme"
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 
@@ -13,12 +13,12 @@ uglyURLs = true
 googleAnalytics = ""
 
 # Copyright
-copyright = "&copy;2021 Your Name"
+copyright = "&copy;2023 MenuMaster"
 
 [params]
 
   # Metadata for search engines and social sharing
-  author = "Jenny Jones"
+  author = "MenuMaster"
   description = "Split is a centrally-divided layout for a professional online presence with a big image or video left with alongside content."
   shareImage = "images/social.jpg"
   twitterHandle = "onepagelove"
