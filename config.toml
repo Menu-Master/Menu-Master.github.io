@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://menu-master.github.io"
+baseURL = "menu-master.tech"
 languageCode = "en-US"
 title = "MenuMaster"
 theme = "hugo-split-theme"
@@ -31,13 +31,13 @@ copyright = "&copy;2023 MenuMaster"
 
     # Image
     [params.visual.image]
-      enable = true
+      enable = false
       file = "images/background.jpg"
       position = "center center"
 
     # Video
     [params.visual.video]
-      enable = false
+      enable = true
       mute = true
       file = "videos/background.mp4"
       # youtubeId = "dk9uNWPP7EA"
@@ -45,57 +45,7 @@ copyright = "&copy;2023 MenuMaster"
   # Links
   #
   # Links List #1
-  [[params.links]]
-    [params.links.list1]
-      heading = "Connect"
 
-      [[params.links.list1.link]]
-        text = "Blog"
-        url = "#"
-        new_tab = true # new tab
-
-      [[params.links.list1.link]]
-        text = "Email"
-        url = "#"
-        new_tab = false # Default, open at same tab
-
-      [[params.links.list1.link]]
-        text = "Newsletter"
-        url = "#"
-
-  # Links List #2
-  [[params.links]]
-    [params.links.list2]
-      heading = "Social"
-
-      [[params.links.list2.link]]
-        text = "Twitter"
-        url = "#"
-
-      [[params.links.list2.link]]
-        text = "Instagram"
-        url = "#"
-
-      [[params.links.list2.link]]
-        text = "Dribbble"
-        url = "#"
-
-  # Links List #3
-  [[params.links]]
-    [params.links.list3]
-      heading = "Network"
-
-      [[params.links.list3.link]]
-        text = "Link One"
-        url = "#"
-
-      [[params.links.list3.link]]
-        text = "Link Two"
-        url = "#"
-
-      [[params.links.list3.link]]
-        text = "Link Three"
-        url = "#"
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
   # Please keep the original attribution link when using for your own project.
