@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "menu-master.github.io"
+baseURL = "www.menu-master.github.io"
 languageCode = "en-US"
 title = "MenuMaster"
 theme = "hugo-split-theme"
@@ -17,6 +17,8 @@ copyright = "&copy;2023 MenuMaster"
 
 [params]
 
+[params.custom.css]
+  enable = true
   # Metadata for search engines and social sharing
   author = "MenuMaster"
   description = "Split is a centrally-divided layout for a professional online presence with a big image or video left with alongside content."
